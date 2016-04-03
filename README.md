@@ -1,2 +1,3 @@
-# Adaptive-Rice-Cooker
-Project created for FYP.
+# Adaptive Rice Cooker
+
+Project created for FYP. 
